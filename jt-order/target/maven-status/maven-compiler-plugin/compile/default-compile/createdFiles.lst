@@ -1,0 +1,7 @@
+com\jt\mapper\OrderShippingMapper.class
+com\jt\conf\OrderQuartzConfig.class
+com\jt\service\DubboOrderServiceImpl.class
+com\jt\mapper\OrderItemMapper.class
+com\jt\mapper\OrderMapper.class
+com\jt\quartz\OrderQuartz.class
+com\jt\SpringBootRun.class
